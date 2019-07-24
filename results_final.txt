@@ -1,0 +1,72 @@
+Epoch: 1
+Training Loss: 4.893648333535223
+Validation Loss: 5.197082745100924
+Epoch: 1
+Training Loss: 4.886444622528053
+Validation Loss: 4.989531128706332
+Epoch: 1
+Training Loss: 4.888887583495614
+Validation Loss: 4.869984558242524
+Epoch: 2
+Training Loss: 4.851152225168879
+Validation Loss: 4.7806593415266025
+Epoch: 3
+Training Loss: 4.7598554459874505
+Validation Loss: 4.666614446811334
+Epoch: 4
+Training Loss: 4.6774620852784485
+Validation Loss: 4.574442369495324
+Epoch: 5
+Training Loss: 4.617190189168839
+Validation Loss: 4.490898890409641
+Epoch: 6
+Training Loss: 4.542624452870763
+Validation Loss: 4.379587698839382
+Epoch: 7
+Training Loss: 4.4731859074024385
+Validation Loss: 4.3290874858102395
+Epoch: 9
+Training Loss: 4.356769710065362
+Validation Loss: 4.184366310428002
+Epoch: 10
+Training Loss: 4.3021603183832
+Validation Loss: 4.062897460903236
+Epoch: 1
+Training Loss: 4.185896396280049
+Validation Loss: 4.093048409787481
+Epoch: 2
+Training Loss: 4.105883098112609
+Validation Loss: 3.8370034551906014
+Epoch: 5
+Training Loss: 3.950558593351684
+Validation Loss: 3.7953607707680344
+Epoch: 6
+Training Loss: 3.9100949228880646
+Validation Loss: 3.654318639618194
+Epoch: 8
+Training Loss: 3.786776233754472
+Validation Loss: 3.548927033018923
+Epoch: 10
+Training Loss: 3.6618990030831204
+Validation Loss: 3.4456950932919623
+Epoch: 12
+Training Loss: 3.584243760672872
+Validation Loss: 3.293102250127735
+Epoch: 13
+Training Loss: 3.552019238293528
+Validation Loss: 3.2086501192903802
+Epoch: 14
+Training Loss: 3.5152055080422384
+Validation Loss: 3.1293984059088245
+Epoch: 15
+Training Loss: 3.4488457964209025
+Validation Loss: 3.073986090585857
+Epoch: 18
+Training Loss: 3.366802814121018
+Validation Loss: 3.063044923508239
+Epoch: 19
+Training Loss: 3.2945070006176382
+Validation Loss: 3.0234904117926864
+Epoch: 20
+Training Loss: 3.290949862874197
+Validation Loss: 2.9247219997965646

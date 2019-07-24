@@ -1,0 +1,18 @@
+Epoch: 1
+Training Loss: 2.334254414913897
+Validation Loss: 0.9654906731165812
+Epoch: 2
+Training Loss: 1.52882283725246
+Validation Loss: 0.6051679668490758
+Epoch: 1
+Training Loss: 1.42093189915051
+Validation Loss: 0.5863666351505382
+Epoch: 2
+Training Loss: 1.3057021383798408
+Validation Loss: 0.5776508966248907
+Epoch: 3
+Training Loss: 1.3037055909722866
+Validation Loss: 0.5156566343621579
+Epoch: 8
+Training Loss: 1.141942892312825
+Validation Loss: 0.48953146420553056
